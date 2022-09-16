@@ -1,1 +1,2 @@
-# simple_end_to_end_model
+# End-to-end ml project
+В данном репозитории лежит простой пример end-to-end проекта машинного обучения
