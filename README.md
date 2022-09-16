@@ -26,4 +26,4 @@
       Установка модулей из файла requirements.txt делается командой:
            pip install -r requirements.txt
 
-- Smth else...g
+- Smth else...
