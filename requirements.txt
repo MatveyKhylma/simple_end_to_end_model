@@ -3,4 +3,7 @@ pandas
 matplotlib
 seaborn
 sklearn
+category_encoders
+xgboost
+dill
 flask
